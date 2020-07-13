@@ -2,3 +2,102 @@
     margin: 0;
     padding: 0;
 }
+
+#nav-bar {
+    position: sticky;
+    top: 0;
+    border-bottom: black;
+    z-index: 10;
+}
+
+.navbar {
+    background-color: white;
+    padding: 0 !important;
+}
+
+.navbar-brand img {
+    height: 50px;
+    padding-left: 30px;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #000000 !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.fa-bars {
+    color: black;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
+
+
+/*--------------------------Banner CSS-------------------------------*/
+
+#banner {
+    color: #fff;
+}
+
+.bannerTit1 {
+    font-size: 22px;
+    letter-spacing: 8px;
+}
+
+.section3 {
+    background-color: #003366;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.boxesPink {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.card1title {
+    font-size: 60px;
+    color: white;
+}
+
+.bannerTit2 {
+    font-size: 22px;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.bannerTit3 {
+    font-size: 22px;
+    letter-spacing: 8px;
+}
+
+#banner4 {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    color: white;
+}
+
+.banner4Tit {
+    color: rgb(78, 64, 64);
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.banner4Tit2 {
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
+
+.banner4Tit3 {
+    color: rgb(78, 64, 64);
+    font-size: 15px;
+}
