@@ -64,7 +64,7 @@
 }
 
 .card1title {
-    font-size: 60px;
+    font-size: 50px;
     color: white;
 }
 
@@ -100,4 +100,49 @@
 .banner4Tit3 {
     color: rgb(78, 64, 64);
     font-size: 15px;
+}
+
+#banner5 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #003366;
+}
+
+.banner5tit {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.bor {
+    border-right: 1px solid white;
+}
+
+.missionBut {
+    color: black !important;
+    background-color: white !important;
+    width: 35% !important;
+    font-weight: 600 !important;
+}
+
+.missionBut2 {
+    color: black !important;
+    background-color: white !important;
+    font-weight: 600 !important;
+}
+
+.fa-whatsapp {
+    font-size: 100px !important;
+}
+
+.fa-youtube-play {
+    font-size: 100px !important;
+}
+
+.fa-facebook-official {
+    font-size: 100px !important;
+}
+
+.fa-instagram {
+    font-size: 100px !important;
 }
