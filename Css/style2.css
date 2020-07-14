@@ -8,6 +8,11 @@ Font load
 Color Code
 ===========*/
 
+@font-face {
+    font-family: myFirstFont2;
+    src: url(/fonts/CEN725N.TTF);
+}
+
 @-webkit-keyframes fadeInDown {
     from {
         opacity: 0;
@@ -4993,4 +4998,36 @@ select:visited {
     font-size: 12px;
     color: #ff0000;
     font-weight: 500;
+}
+
+#target {
+    display: none;
+}
+
+#target1 {
+    display: none;
+}
+
+#target2 {
+    display: none;
+}
+
+#target3 {
+    display: none;
+}
+
+#target4 {
+    display: none;
+}
+
+#target5 {
+    display: none;
+}
+
+#target6 {
+    display: none;
+}
+
+#target7 {
+    display: none;
 }
