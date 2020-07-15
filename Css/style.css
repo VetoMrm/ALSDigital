@@ -24,7 +24,7 @@
 }
 
 .log {
-    max-width: 15rem;
+    max-width: 20rem;
 }
 
 #nav-bar {
@@ -89,7 +89,7 @@
 }
 
 .card1title {
-    font-size: 50px;
+    font-size: 40px;
     color: white;
     font-family: myFirstFont2 !important;
 }
@@ -98,7 +98,7 @@
     font-size: 22px;
     letter-spacing: 3px;
     font-weight: 600;
-    font-family: myFirstFont2 !important;
+    font-family: myFirstFont3 !important;
 }
 
 .bannerTit3 {
@@ -114,7 +114,7 @@
 }
 
 .banner4Tit {
-    color: rgb(78, 64, 64);
+    color: #7E7C7C;
     font-size: 40px;
     font-weight: 600;
     font-family: myFirstFont2 !important;
@@ -130,7 +130,7 @@
 .banner4Tit3 {
     color: rgb(78, 64, 64);
     font-size: 20px;
-    font-family: myFirstFont2 !important;
+    font-family: myFirstFont4 !important;
 }
 
 #banner5 {
@@ -150,13 +150,6 @@
 }
 
 .missionBut {
-    color: black !important;
-    background-color: white !important;
-    width: 35% !important;
-    font-weight: 600 !important;
-}
-
-.missionBut2 {
     color: black !important;
     background-color: white !important;
     font-weight: 600 !important;
@@ -221,8 +214,8 @@
 #banner6 {
     padding-top: 2%;
     padding-bottom: 2%;
-    color: white;
-    background-color: #003366;
+    color: black;
+    background-color: white;
 }
 
 #banner7 {
@@ -269,13 +262,12 @@
 }
 
 .missionBut2 {
-    color: black !important;
-    background-color: white !important;
-    max-width: 25% !important;
+    color: white !important;
+    background-color: blueviolet !important;
     font-weight: 600 !important;
 }
 
-59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85
+
 /* Side Menu */
 
 #sidebar-wrapper {
@@ -372,4 +364,109 @@
 
 .tit1 {
     font-family: myFirstFont3 !important;
+}
+
+#OppurBanner {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: black;
+    background-color: white;
+}
+
+#banner62 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: black;
+    background-color: #003366;
+}
+
+#banner621 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #003366;
+}
+
+#banner721 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #042546;
+}
+
+.banner6Tit1 {
+    font-size: 20px;
+}
+
+#banner731 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #3d2352;
+}
+
+#banner741 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #3d1e6d;
+}
+
+#banner751 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    background-color: #8874a3;
+}
+
+.mainList {
+    list-style: none;
+}
+
+.mainList .sublist::before {
+    content: "\2022";
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+}
+
+.mainList1 {
+    list-style: none;
+}
+
+.mainList1 .sublist1::before {
+    content: "\2022";
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+}
+
+.icoPage {
+    width: 10%;
+}
+
+.icoPage1 {
+    width: 5%;
+}
+
+#banner222 {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: black;
+}
+
+.namePer {
+    font-family: myFirstFont3 !important;
+}
+
+.namePer2 {
+    font-family: myFirstFont3 !important;
+    font-size: 15px !important;
+}
+
+.namePer3 {
+    font-family: myFirstFont1 !important;
+    font-size: 17px !important;
 }
