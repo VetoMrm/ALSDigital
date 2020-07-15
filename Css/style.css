@@ -242,7 +242,8 @@
 
 .banner9Tit {
     font-size: 30px;
-    color: cadetblue;
+    color: black;
+    font-weight: 600;
 }
 
 .banner9Tit2 {
@@ -469,4 +470,8 @@
 .namePer3 {
     font-family: myFirstFont1 !important;
     font-size: 17px !important;
+}
+
+.amazingresult {
+    font-size: 15px;
 }
